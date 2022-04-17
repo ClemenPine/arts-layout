@@ -1,3 +1,3 @@
 # ARTS
 
-![ARTS Layout](ARTS.svg)
+![ARTS Layout](arts.svg)
