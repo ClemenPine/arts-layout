@@ -1,3 +1,9 @@
 # ARTS
 
 ![ARTS Layout](arts.svg)
+
+```
+q l d y g  j m o u ;
+a r t s c  p n e i h /
+z x k w v  b f ' , .
+```
