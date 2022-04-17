@@ -1,5 +1,4 @@
-# arts-layout
-An alternative keyboard layout
+# ARTS
 
 ```
 q l d y g  j m o u ;
