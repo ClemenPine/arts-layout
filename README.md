@@ -10,6 +10,7 @@ Here are the stats for the layout as calculated by my layout analyzer, ![a200](h
 - Rolls and Onehands are high compared to other layouts, this means that a lot of trigrams (3-letter combos) are going to be typed in a rolling motion if you use the standard touch-typing technique.
 - Redirects are fairly low compared to other layouts. A redirect is a trigram that is typed "out of order".
 - SFBs are similar in amount to other optimized layouts. An SFB is a trigram that uses the same finger consequentively. This layout has higher SFBs compared to some layouts, but it puts these SFBs on fingers that are capable of handling the extra use, like the indexes.
+  - Also note that these are *trigram* SFBs instead of *bigram* SFBs, which are not the same. On [genkey](https://github.com/semilin/genkey), the SFB score for ARTS is 1.20%
 - DSFBs are lower compared to other layouts. These are like SFBs, but separated by one keypress.
 - The hands are relatively balanced. Also note that pinky use is slightly lower than other layouts.
 
