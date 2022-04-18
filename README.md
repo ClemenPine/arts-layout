@@ -14,7 +14,7 @@ Here are the stats for the layout as calculated by my layout analyzer, ![a200](h
 - DSFBs are lower compared to other layouts. These are like SFBs, but separated by one keypress.
 - The hands are relatively balanced. Also note that pinky use is slightly lower than other layouts.
 
-![Analysis](arts-analysis.png)
+![Analysis](arts-a200.png)
 
 # Text
 
