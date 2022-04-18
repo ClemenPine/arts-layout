@@ -1,6 +1,6 @@
 # ARTS
 
-ARTS is a keyboard layout that I designed after using my [pine layout](https://github.com/ClemenPine/pine) for a few months. I wanted a layout that had a high amount of rolls and onehands and a reduced amount of redirects and sfbs, but unlike Pine, I wanted to have lower pinky movement. I also made it to experiment with an `oe` vowel column and the letter `h` on the pinky. Its name comes from the left-hand homerow. 
+ARTS is a keyboard layout that I designed after using my [pine layout](https://github.com/ClemenPine/pine) for a few months. I wanted a layout that had a high amount of rolls and onehands and a reduced amount of redirects and sfbs - but unlike Pine, I wanted it to have lower pinky movement. I also made it to experiment with an `oe` vowel column and the letter `h` on the pinky. Its name comes from the left-hand homerow. 
 
 ![ARTS Layout](arts.svg)
 
